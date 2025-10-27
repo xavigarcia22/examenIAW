@@ -1,0 +1,8 @@
+site_name: Examen Xavi GIT
+theme:
+  name: material
+nav:
+
+- Index: index.md
+- Documentacio: examengit/examengit.md
+- Comandos: comandos.md
